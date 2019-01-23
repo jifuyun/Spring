@@ -38,6 +38,6 @@
   </bean>
 
   <!-- Activate Avalon Bridge -->
-  <avalon:bridge/>
+ <!-- <avalon:bridge/>-->
 
 </beans>

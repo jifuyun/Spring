@@ -8,7 +8,9 @@
     <param-name>namespace</param-name>
     <param-value></param-value>
   </context-param>
-
+<listener>
+  <listener-class></listener-class>
+</listener>
 
 </web-app>
         
